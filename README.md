@@ -97,14 +97,6 @@ The system generates three CSV files:
 4. Monitor statistics to identify bottlenecks
 5. Save data at end of day and start fresh the next day
 
-## Future Enhancements
-
-- User authentication system for staff access
-- Network support for multi-terminal operations
-- Appointment scheduling capability
-- Patient history tracking
-- Room and resource management
-
 ---
 
 This Hospital Patient Management System provides an efficient, priority-based approach to managing patient flow in a hospital environment, helping reduce wait times while ensuring urgent cases receive prompt attention.
